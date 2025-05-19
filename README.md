@@ -20,4 +20,6 @@ Get the gemini code from the github repo https://github.com/browser-use/browser-
 Install the missing dependencies: uv pip install langchain_google_genai,
 Get the api key from googleaistudio and paste it in the .env file with the name GEMINI_API_KEY,
 Create a new file prompt.txt and paste the prompt. Read the prompt carefully using with open syntax in python.
+
+pip install steel-sdk browser-use langchain-openai
 ```
